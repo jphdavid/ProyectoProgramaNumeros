@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.modelo;
+package com.dfuentes.modelo;
 
 /**
  *
- * @author MARIA LOYA
+ * @author David Fuentes
  * Coordenadas de un punto en pixeles
  */
 public class Punto {

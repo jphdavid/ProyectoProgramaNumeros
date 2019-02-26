@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.modelo;
+package com.dfuentes.modelo;
 
 /**
  *
- * @author MARIA LOYA
+ * @author David Fuentes
  * Arista que une dos puntos
  */
 public class Arista {

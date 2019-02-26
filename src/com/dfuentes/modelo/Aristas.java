@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.modelo;
+package com.dfuentes.modelo;
 
 import java.util.ArrayList;
 
 /**
  *
- * @author MARIA LOYA
+ * @author David Fuentes
  */
 public class Aristas {
    private ArrayList<Arista> aristas = new ArrayList<Arista>();

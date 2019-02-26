@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.controlador;
+package com.dfuentes.controlador;
 
 import static com.sun.glass.ui.Cursor.setVisible;
 import java.awt.GridLayout;
@@ -19,7 +19,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author MARIA LOYA
+ * @author David Fuentes
  * Dialogo que permite introducir las aristas a añadir
  */
 

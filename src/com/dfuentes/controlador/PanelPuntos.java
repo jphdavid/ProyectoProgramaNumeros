@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.controlador;
+package com.dfuentes.controlador;
 
-import com.mloya.modelo.Arista;
-import com.mloya.modelo.Aristas;
-import com.mloya.modelo.Punto;
-import com.mloya.modelo.Puntos;
+import com.dfuentes.modelo.Arista;
+import com.dfuentes.modelo.Aristas;
+import com.dfuentes.modelo.Punto;
+import com.dfuentes.modelo.Puntos;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author MARIA LOYA
+ * @author David Fuentes
  * Panel que muestra los puntos y las aristas que los unen
  */
 public class PanelPuntos extends JPanel {
